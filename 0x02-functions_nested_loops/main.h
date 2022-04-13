@@ -1,7 +1,6 @@
 int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_x10(void);
-<<<<<<< HEAD
 int _islower(int c);
 int _isalpha(int c);
 int print_sign(int n);
@@ -12,5 +11,3 @@ void times_table(void);
 int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
-=======
->>>>>>> dfd34d436be0fc9eb3ca0b54ef1234a05110ff90
